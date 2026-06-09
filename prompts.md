@@ -3,7 +3,7 @@
 **Project:** Wolters Kluwer Assessment — Project 3 (Observability Watchdog)  
 **Candidate:** Vikas Mishra  
 **Tool:** Cursor (Vibe Coding — architect prompts only, no manual code edits)  
-**Last updated:** 2026-06-09 (README sync)
+**Last updated:** 2026-06-09 (pre-submission fixes + initial commit)
 
 Per assessment rules, each entry below is the **full prompt text** used for that turn (operational-only messages are listed separately at the end).
 
