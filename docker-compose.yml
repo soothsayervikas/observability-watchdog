@@ -1,0 +1,39 @@
+# Local / demo stack: API + mock webhook receiver.
+# For relaxed local profile: copy .env.example to .env
+# For production-style: copy .env.production.example to .env and set secrets.
+services:
+  api:
+    build:
+      context: .
+      args:
+        VITE_API_BASE: ""
+        VITE_API_KEY: ${API_KEY:-}
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      SERVE_DASHBOARD: "true"
+      WEBHOOK_URL: http://webhook:8765/webhook
+      CORS_ORIGINS: http://localhost:8000,http://127.0.0.1:8000
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      webhook:
+        condition: service_started
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/v1/health/ready')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  webhook:
+    build: .
+    command: ["python", "scripts/mock_webhook.py", "--host", "0.0.0.0", "--port", "8765"]
+    ports:
+      - "8765:8765"
+    env_file:
+      - .env
+    restart: unless-stopped

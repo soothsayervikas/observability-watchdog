@@ -1,0 +1,2812 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:52:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T03:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:12:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:32:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:42:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:47:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:52:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T04:57:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:02:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:07:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:12:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:17:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:22:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:27:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:32:13.874793Z",
+      "level": "WARN",
+      "service": "payment-api",
+      "message": "Slow downstream dependency",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:37:13.874793Z",
+      "level": "INFO",
+      "service": "payment-api",
+      "message": "Processed payment successfully",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:43:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:44:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:45:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:46:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:47:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:48:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:49:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:50:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:51:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "ERROR",
+      "service": "payment-api",
+      "message": "Database connection timeout",
+      "metadata": {
+        "host": "app-01"
+      }
+    },
+    {
+      "timestamp": "2026-06-08T05:52:13.874793Z",
+      "level": "FATAL",
+      "service": "payment-api",
+      "message": "Circuit breaker opened",
+      "metadata": {
+        "host": "app-01"
+      }
+    }
+  ]
+}

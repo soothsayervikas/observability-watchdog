@@ -1,0 +1,45 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+dist/
+build/
+
+# Secrets & local env
+.env
+.env.local
+*.pem
+
+# Database & runtime data
+data/*.db
+data/watchdog.db
+data/runtime/
+data/app.log
+data/uvicorn.*.log
+data/incoming/processed/*
+!data/incoming/processed/.gitkeep
+data/incoming/failed/*
+!data/incoming/failed/.gitkeep
+
+# Logs (keep demo sample log)
+*.log
+!data/incoming/sample-app.log
+
+# Node / frontend
+node_modules/
+dashboard/dist/
+dashboard/node_modules/
+dashboard/tsconfig.tsbuildinfo
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

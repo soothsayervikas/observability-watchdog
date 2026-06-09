@@ -1,0 +1,7 @@
+2026-06-08T12:00:00Z INFO [payment-api] - Processed payment successfully
+2026-06-08T12:01:00Z INFO [payment-api] - Processed payment successfully
+2026-06-08T12:02:00Z WARN [payment-api] - Slow downstream dependency
+2026-06-08T12:03:00Z ERROR [payment-api] - Database connection timeout
+2026-06-08T12:03:10Z ERROR [payment-api] - Database connection timeout
+2026-06-08T12:03:20Z ERROR [payment-api] - Database connection timeout
+2026-06-08T12:03:30Z FATAL [payment-api] - Circuit breaker opened
