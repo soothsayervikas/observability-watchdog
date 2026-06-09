@@ -4,7 +4,7 @@
 **Candidate:** Vikas Mishra  
 **AI Tool:** Cursor (single tool, end-to-end)  
 **Workflow:** Vibe Coding — architect prompts only; no manual code edits  
-**Last updated:** 2026-06-09
+**Last updated:** 2026-06-09 (dashboard UI polish)
 
 This file is the **full audit log of instructions** given to the AI agent, as required by the assessment. Each numbered turn records the prompt used for that session. Turn 0 uses the **exact opening template** from the assessment PDF.
 
@@ -32,6 +32,7 @@ This file is the **full audit log of instructions** given to the AI agent, as re
 | 15 | README final sync |
 | 16 | Vibe coding statement |
 | 17 | Pre-submission review & fixes |
+| 18 | Dashboard header — Trend window alignment |
 
 ---
 
@@ -210,6 +211,16 @@ Add a Vibe Coding Statement to README, docs/ARCHITECTURE.md, and docs/VIBE_CODIN
 
 ```
 Perform a final pre-submission review of the entire project before I submit to Wolters Kluwer. Verify assignment requirements, tests, secrets, screenshot, git readiness, and submission checklist. Fix any remaining blockers (lint, screenshot path, .gitignore).
+```
+
+---
+
+## Turn 18 — Dashboard Trend Window Alignment
+
+```
+The dashboard header has a layout issue: the "Trend window" label and dropdown are vertically misaligned compared to the action buttons (Refresh, Upload Log File, Scan Incoming, Load Sample Data, Run Analysis). See the attached screenshot.
+
+Fix the header CSS so the Trend window control sits on the same horizontal baseline as the buttons — consistent height, padding, and vertical alignment. Keep the dark theme and responsive behavior intact.
 ```
 
 ---

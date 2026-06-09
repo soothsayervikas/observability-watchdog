@@ -208,7 +208,7 @@ export default function App() {
         </div>
         <div className="actions">
           <label className="hours-filter">
-            Trend window
+            <span className="hours-filter-label">Trend window</span>
             <select
               value={trendHours}
               onChange={(event) => setTrendHours(Number(event.target.value))}
