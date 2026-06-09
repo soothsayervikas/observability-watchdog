@@ -8,6 +8,7 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .coverage
+htmlcov/
 dist/
 build/
 
@@ -22,6 +23,7 @@ data/watchdog.db
 data/runtime/
 data/app.log
 data/uvicorn.*.log
+data/test-upload-spike.log
 data/incoming/processed/*
 !data/incoming/processed/.gitkeep
 data/incoming/failed/*

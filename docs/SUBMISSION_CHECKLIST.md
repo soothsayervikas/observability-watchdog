@@ -39,12 +39,13 @@ Use this before pushing to GitHub and submitting the Wolters Kluwer assessment.
 
 | File / folder | Why |
 |---------------|-----|
-| `.env` | May contain Azure OpenAI API key |
+| `.env`, `.env.local` | Secrets (Azure OpenAI API key) |
 | `data/watchdog.db` | Local SQLite database |
 | `data/runtime/`, `*.log` | Server runtime logs |
-| `node_modules/`, `.venv/` | Dependencies |
-| `.pytest_cache/`, `*.egg-info/` | Build/cache artifacts |
-| `data/incoming/processed/*` | Ingested file artifacts |
+| `node_modules/`, `.venv/`, `dashboard/dist/` | Dependencies / build output |
+| `.pytest_cache/`, `.coverage`, `*.egg-info/` | Test/cache artifacts |
+| `data/incoming/processed/*`, `data/incoming/failed/*` | Ingested file artifacts (`.gitkeep` only) |
+| `docs/dashboard.png` | Duplicate — use `docs/images/dashboard.png` only |
 
 ## Safe to commit
 

@@ -1,11 +1,37 @@
 # Prompts Audit Log
 
-**Project:** Wolters Kluwer Assessment — Project 3 (Observability Watchdog)  
+**Project:** Wolters Kluwer GTS Assessment — Project 3 (Intelligent Observability & Event Watchdog)  
 **Candidate:** Vikas Mishra  
-**Tool:** Cursor (Vibe Coding — architect prompts only, no manual code edits)  
-**Last updated:** 2026-06-09 (pre-submission fixes + initial commit)
+**AI Tool:** Cursor (single tool, end-to-end)  
+**Workflow:** Vibe Coding — architect prompts only; no manual code edits  
+**Last updated:** 2026-06-09
 
-Per assessment rules, each entry below is the **full prompt text** used for that turn (operational-only messages are listed separately at the end).
+This file is the **full audit log of instructions** given to the AI agent, as required by the assessment. Each numbered turn records the prompt used for that session. Turn 0 uses the **exact opening template** from the assessment PDF.
+
+---
+
+## Turn index
+
+| Turn | Focus |
+|------|--------|
+| 0 | Opening template (assessment-required) |
+| 1 | MVP scaffold |
+| 2 | Azure OpenAI hybrid detection |
+| 3 | Dashboard — Run Analysis |
+| 4 | Log ingestion (upload, watch dir, parsers) |
+| 5 | Upload endpoint fix |
+| 6 | README & documentation |
+| 7 | Security review |
+| 8 | Production hardening |
+| 9 | Local vs production profiles |
+| 10 | Edge cases & code quality |
+| 11 | Senior code review |
+| 12 | Review remediation |
+| 13 | Secrets, prompts audit, critical bugs |
+| 14 | Top improvements (CI, locks, tests) |
+| 15 | README final sync |
+| 16 | Vibe coding statement |
+| 17 | Pre-submission review & fixes |
 
 ---
 
@@ -24,227 +50,167 @@ Acknowledge and let's start.
 
 ---
 
-## Turn 1 — Project Selection & Implementation Plan
+## Turn 1 — MVP Scaffold
 
 ```
-I have assignment for the interview. Please read it and check which assignment is good to submit. I am software developer having 9 year of experience. please read the resume from here "Vikas_Mishra_Resume_Updated.docx". we need to maintain code quality and everything like a senior developer. please read both document carefully and make a plan
-```
+Proceed with the MVP implementation for Project 3 (Observability Watchdog):
 
----
+- Python 3.11, FastAPI, API-first design
+- SQLite database (free tier)
+- Log ingestion API and file parsing
+- Statistical error-spike detection with configurable thresholds
+- Simulated webhook alert on breach
+- React dashboard for health trends and alerts
+- Layered architecture (API → services → repositories)
+- pytest test suite and README quick start
 
-## Turn 2 — Plan Document
-
-```
-please make a MD file for the plan. log all the things which we will implement, remember the code quality structure and figure out all other things which should be done as a senior level engineer
-```
-
----
-
-## Turn 3 — Scaffold MVP
-
-```
-please go ahead
+Maintain senior-level code quality. Update prompts.md after this turn.
 ```
 
 ---
 
-## Turn 4 — Azure OpenAI Hybrid Detection
+## Turn 2 — Azure OpenAI Hybrid Detection
 
 ```
-The project says - "Project 3: Intelligent Observability & Event Watchdog
-● Focus: Site Reliability Engineering (SRE).
-● Description: Develop a service that parses application or platform logs to detect anomalies or "spikes" in errors using AI logic. When thresholds are breached, the system must trigger a simulated webhook alert and visualize health trends."
+The assessment requires AI logic for anomaly detection. Add Azure OpenAI integration:
 
-We need to use AI logic. I do not see AI logic here. Configure Azure OpenAI via .env / .env.local only — endpoint and API key must never be committed to the repository.
-```
+- Hybrid pipeline: statistical spike detection first, then AI enrichment for root-cause hints
+- Configure credentials only via .env / .env.local — never commit API keys
+- Graceful fallback to statistical-only when AI is disabled or unavailable
+- Document configuration in README
 
----
-
-## Turn 5 — Dashboard Run Analysis UX
-
-```
-I clicked on "Run analysis" button from the UI but nothing happened
+Project requirement: "Develop a service that parses application or platform logs to detect anomalies or spikes in errors using AI logic. When thresholds are breached, trigger a simulated webhook alert and visualize health trends."
 ```
 
 ---
 
-## Turn 6 — Production-Style Log Ingestion
+## Turn 3 — Dashboard Run Analysis
 
 ```
-How error log detection work, we need to upload log file or it will read from a particular source?
-```
-
-```
-we need to make it Production-style extension
+The dashboard "Run Analysis" button does not trigger analysis or show feedback. Fix the React client to call POST /api/v1/analyze/run, handle errors, and refresh health metrics and alerts after a successful run.
 ```
 
 ---
 
-## Turn 7 — Upload Endpoint Fix
+## Turn 4 — Log Ingestion
 
 ```
-In this url "http://127.0.0.1:8000/api/v1/logs/upload" I am uploading file "C:\Users\vikas\Desktop\Assigment\observability-watchdog\data\app.log" it is giving me error
-```
+Clarify and implement production-style log ingestion:
 
----
-
-## Turn 8 — README
-
-```
-Create a README file with all details
-```
-
-```
-please check is it a standard format for readme file, all things which is there should be there or not
-```
-
-```
-yes please
+- How should operators supply logs — API push, file upload, or watched directory?
+- Support JSON, JSONL, and plain-text application log formats
+- Add a collector/watch workflow for data/incoming/
+- Document ingestion options in docs/INGESTION.md
 ```
 
 ---
 
-## Turn 9 — Security Review
+## Turn 5 — Upload Endpoint Fix
 
 ```
-Now we need to check the security thing, please check how our application is secure and also the error detection
-```
-
----
-
-## Turn 10 — Production Hardening (Except Auth)
-
-```
-we need to make it as production level, please implement everything except auth
+POST /api/v1/logs/upload returns an error when uploading the backend server log (uvicorn/app.log) instead of an application log file. Improve parser validation and return clear error messages that distinguish unsupported files from parse failures. Hint users to upload application logs or use Load Sample Data.
 ```
 
 ---
 
-## Turn 11 — Local vs Production Profiles
+## Turn 6 — README
 
 ```
-Can we give option to use local and production environment where local can run without some security check
-```
-
-```
-please add it in readme file also
+Create a complete README for submission: quick start, architecture summary, API overview, configuration (.env / .env.local for Azure OpenAI), demo steps (Load Sample Data → Run Analysis), testing commands, and project structure. Follow standard open-source README conventions for a technical assessment repo.
 ```
 
 ---
 
-## Turn 12 — Pre-Submission Cleanup
+## Turn 7 — Security Review
 
 ```
-Now please check if we have any extra files before submitting it. Please check code also, it should be standard
-```
-
----
-
-## Turn 13 — Assignment-Focused Code Review
-
-```
-It is not production-grade but an assignment only. We need to check code quality and all edge cases only
+Perform a security review of the application: input validation, webhook URL safety, upload limits, injection risks, secrets handling, and detection logic correctness. List findings with severity and implement high-priority fixes. Document security controls in README.
 ```
 
 ---
 
-## Turn 14 — Edge Case & Code Quality Fixes (Local-Friendly)
+## Turn 8 — Production Hardening
 
 ```
-please fix the code quality issues and Findings — Edge Cases & Correctness. not authentication because it should work in local
-```
-
----
-
-## Turn 15 — Senior Code Review (Pre-Release)
-
-```
-I have completed Project 3 from the assignment described in "Wolters Kluwer Assessment.pdf". I want you to perform a comprehensive senior-level code review as if you were a Software Engineer with 9+ years of professional experience conducting a review before a production release.
-
-[Full review objectives: code quality, architecture, error handling, security, performance, testing, production readiness, senior engineer expectations, and structured findings with severity/category/impact/recommendation.]
+Harden the application for a production-style profile: rate limiting, request body size limits, security headers, webhook HMAC signing, and structured logging. Keep local/demo mode usable without all checks enabled.
 ```
 
 ---
 
-## Turn 16 — High & Medium Severity Remediation
+## Turn 9 — Environment Profiles
 
 ```
-please fix things with high and medium severity
-```
+Add local vs production environment profiles:
 
----
-
-## Turn 17 — Critical: prompts.md, Secrets, Remaining Bugs
-
-```
-expect prompts.md and openai key fix critical bugs also
+- Local/relaxed: open docs, demo seed route, no API key required — for assessment demo
+- Production/strict: API key auth, rate limits, hidden docs, required webhook secret
+- Control via APP_ENV and SECURITY_PROFILE in .env
+- Document both profiles in README with example commands
 ```
 
 ---
 
-## Turn 18 — Top 10 Review Improvements
+## Turn 10 — Edge Cases & Code Quality
 
 ```
-please implment "Top 10 Highest-Impact Improvements"
-```
-
-Implemented: analysis lock race fix, per-path rate limits, Prometheus path normalization, DB session split before AI calls, migration test, UNKNOWN_PATTERN test, consolidated fixtures, concurrent analyze test, CI strict full-suite + docker smoke, submission artifact docs.
-
----
-
-## Turn 19 — README Sync
-
-```
-please update readme file if needed
+Fix code quality and edge-case issues from review: deduplication keys, ingest limits, health summary lookback window, parser edge cases, and concurrent analysis handling. Keep local profile working without API key for demo.
 ```
 
 ---
 
-## Turn 20 — Vibe Coding Statement
+## Turn 11 — Senior Code Review
 
 ```
-sure
+I have completed Project 3 per Wolters Kluwer Assessment.pdf. Perform a comprehensive senior-level code review covering architecture, security, error handling, performance, testing, and production readiness. For each finding provide severity, category, issue, impact, and recommendation. End with scores and top 10 improvements.
 ```
-
-(Context: draft Vibe Coding Statement for README, `docs/ARCHITECTURE.md`, and `docs/VIBE_CODING.md` — architect-led Cursor workflow, assessment MVP scope honesty.)
 
 ---
 
-## Turn 21 — Pre-Submission Review & Final Fixes
+## Turn 12 — Review Remediation
 
 ```
-please review all things again i am going to submit this assigment
+Implement fixes for all high and medium severity findings from the code review.
 ```
-
-```
-please do all these steps
-```
-
-Implemented: ruff lint/format fixes, dashboard screenshot path (`docs/images/dashboard.png`), `.gitignore` updates (`.coverage`, `tsbuildinfo`), `prompts.md` Turns 20–21, full test/secret-scan verification, git commit and push.
 
 ---
 
-## Prompts Excluded (Not Logged)
+## Turn 13 — Audit Log, Secrets & Critical Bugs
 
-These were operational or Q&A only — no architectural/code change requested:
-
-| Prompt | Reason excluded |
-|--------|-----------------|
-| `please start both servers` | Runtime ops |
-| `please stop backend server kill it and restart it` | Runtime ops |
-| `I am not able to see any logs in the backend server` | Troubleshooting |
-| `how webhook will work` | Explanation only |
-| `please push this repo, this will be public` | Git ops |
-| `Briefly inform the user about the task result...` | System relay |
-| Tagle quiz / resume-only planning before repo scaffold | Pre-project |
+```
+Ensure prompts.md is complete and accurate. Add a secret-scan script for CI. Fix any remaining critical bugs before public GitHub submission. Confirm no Azure OpenAI keys in tracked files.
+```
 
 ---
 
-## Security Note (Post-Review)
+## Turn 14 — Top Improvements
 
-If an Azure OpenAI key was ever pasted into chat or a local file:
+```
+Implement the top 10 highest-impact improvements: distributed analysis lock, per-endpoint rate limits, Prometheus metrics, DB session handling before AI calls, Alembic migration tests, hybrid AI tests, concurrent analyze test, strict-profile CI job, Docker smoke test, and submission checklist docs.
+```
 
-1. **Rotate the key** in Azure Portal immediately.
-2. Store the new key only in **`.env.local`** (gitignored).
-3. Never commit `.env` with real credentials.
-4. Run `python scripts/check_secrets.py` before pushing to GitHub.
+---
+
+## Turn 15 — README Sync
+
+```
+Review and update README so it matches the final feature set, environment profiles, test commands, and submission checklist.
+```
+
+---
+
+## Turn 16 — Vibe Coding Statement
+
+```
+Add a Vibe Coding Statement to README, docs/ARCHITECTURE.md, and docs/VIBE_CODING.md explaining the architect-led Cursor workflow, no manual edits rule, prompts.md audit trail, and honest assessment MVP scope.
+```
+
+---
+
+## Turn 17 — Pre-Submission Review
+
+```
+Perform a final pre-submission review of the entire project before I submit to Wolters Kluwer. Verify assignment requirements, tests, secrets, screenshot, git readiness, and submission checklist. Fix any remaining blockers (lint, screenshot path, .gitignore).
+```
+
+---
+
