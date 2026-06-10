@@ -15,6 +15,28 @@ os.environ.setdefault("LOG_RETENTION_DAYS", "0")
 
 
 @pytest.fixture(autouse=True)
+def mock_outbound_webhooks(monkeypatch):
+    """Avoid real HTTP in integration tests (strict CI uses a fake WEBHOOK_URL)."""
+    from unittest.mock import AsyncMock, MagicMock
+
+    from app.core.url_safety import PinnedWebhookTarget
+
+    mock_response = MagicMock()
+    mock_response.status_code = 200
+    mock_response.is_success = True
+    mock_response.text = "ok"
+
+    mock_http_client = AsyncMock()
+    mock_http_client.post = AsyncMock(return_value=mock_response)
+
+    def _pin_webhook(url: str, *, allow_private_hosts: bool) -> PinnedWebhookTarget:
+        return PinnedWebhookTarget(request_url=url)
+
+    monkeypatch.setattr("app.services.webhook_service.get_http_client", lambda: mock_http_client)
+    monkeypatch.setattr("app.services.webhook_service.pin_webhook_target", _pin_webhook)
+
+
+@pytest.fixture(autouse=True)
 def reset_settings_cache():
     from app.config import get_settings
     from app.core.ai_cache import clear_ai_cache
